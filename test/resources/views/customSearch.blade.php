@@ -1,7 +1,7 @@
 <html>
  <head>
   <meta name="viewport" content="width=device-width, initial-scale=1">
-  <title>Laravel 5.8 - Individual Column Search in Datatables using Ajax</title>
+  <title>Laravel 5.8 - Individual Column Search in Datatables</title>
   <link href="{{ asset('/css/form.css') }}" rel="stylesheet">
  </head>
  <body>
